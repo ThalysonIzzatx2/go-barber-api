@@ -39,7 +39,7 @@
 
 ---
 
-Made with Thalyson Sousa :wave: [My linkedin!](https://www.linkedin.com/in/thalysonsousa/)
+Made by Thalyson Sousa :wave: [My linkedin!](https://www.linkedin.com/in/thalysonsousa/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
